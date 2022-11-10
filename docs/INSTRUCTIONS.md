@@ -37,9 +37,13 @@ Wat ging er minder goed?
 
 Wat wil je komende tijd graag leren?
 
-Waar wil je aan het eind van semester 1 zijn?
+Waar wil je aan het eind van semester 3 zijn?
 
-Waar wil je aan het eind van semester 2 zijn?
+Waar wil je aan het eind van semester 4 zijn?
+
+Wat zie je jezelf volgend jaar doen (als de studie is afgerond)?
+
+Wat zie je jezelf over 5 jaar doen?
 
 Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
 
