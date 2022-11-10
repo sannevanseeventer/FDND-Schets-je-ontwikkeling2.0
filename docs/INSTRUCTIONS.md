@@ -39,6 +39,8 @@ Wat wil je komende tijd graag leren?
 
 Waar wil je aan het eind van semester 3 zijn?
 
+Wat denk je in sprint 19 (tijdens de vrije keuze ruimte) te gaan doen?
+
 Waar wil je aan het eind van semester 4 zijn?
 
 Wat zie je jezelf volgend jaar doen (als de studie is afgerond)?
