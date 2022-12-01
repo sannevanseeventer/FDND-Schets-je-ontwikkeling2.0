@@ -115,7 +115,7 @@ Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eve
 
 
 Deze deeltaak hoort bij het gedragscriterium:  
-Lerend vermogen: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen
+Lerend vermogen: Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen en maakt dit bespreekbaar.
 
 Deze opdracht is done als:
 
