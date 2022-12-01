@@ -31,25 +31,28 @@ Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ont
 
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
-Wat ging er goed?
+> Wat ging er goed?
 
-Wat ging er minder goed?
+> Wat ging er minder goed?
 
-Wat wil je komende tijd graag leren?
+> Wat wil je komende tijd graag leren?
 
-Waar wil je aan het eind van semester 3 zijn?
+> Waar wil je aan het eind van semester 3 zijn?
 
-Wat denk je in sprint 19 (tijdens de vrije keuze ruimte) te gaan doen?
+> Wat denk je in sprint 19 (tijdens de vrije keuze ruimte) te gaan doen?
 
-Waar wil je aan het eind van semester 4 zijn?
+> Waar wil je aan het eind van semester 4 zijn?
 
-Wat zie je jezelf volgend jaar doen (als de studie is afgerond)?
+> Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
 
-Wat zie je jezelf over 5 jaar doen?
+> Waar liggen kansen, waar heb je zin in?
 
-Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
+> Wat zie je jezelf volgend jaar doen (als de studie is afgerond)?
 
-Waar liggen kansen, waar heb je zin in?
+> Wat zie je jezelf over 5 jaar doen?
+
+> Wat zeggen anderen over jou?
+
 
 Schrijf en/of teken deze uitgangspunten op post-its.
 
