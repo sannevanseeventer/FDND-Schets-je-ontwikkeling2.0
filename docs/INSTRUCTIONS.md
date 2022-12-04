@@ -1,14 +1,14 @@
 
 # Do not repeat yourself - Schets je ontwikkeling, deel 2
 
-Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar je naartoe wil in jaar 2, laat zien.
+Maak een praatplaat waarin je jouw ontwikkeling en waar je naartoe wil in jaar 2, laat zien.
 
 ## Context
 
 Deze deeltaak hoort bij sprint 17 Back to static. 
-Dit is een deeltaak die je individueel uitvoert.
+Dit is een deeltaak die je grotendeels individueel uitvoert.
 
-In de workshop [Schets je ontwikkeling 2](link) gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
+In de workshop gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
 
 
 ## Doel van deze opdracht
@@ -35,8 +35,6 @@ Wat zou ik willen denken?
 Wat zoun ik willen zeggen?
 Waar ben ik (hoe zou ik willen dat mijn werkomgeving eruit ziet)?
 ![Toekomst (1)](https://user-images.githubusercontent.com/55133339/205493929-63a1f682-2e75-46ac-bfdd-aafe67cd65f3.png)
-
-
 
 
 
