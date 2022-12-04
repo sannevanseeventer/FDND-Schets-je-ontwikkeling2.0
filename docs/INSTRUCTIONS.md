@@ -13,50 +13,58 @@ In de workshop [Schets je ontwikkeling 2](link) gaan we gezamenlijk alle stappen
 
 ## Doel van deze opdracht
 
-Je reflecteert op de afgelopen periode en brengt in kaart wat er goed gaat en wat er beter kan.
-Je maakt een tekening (praatplaat) in de vorm van een metafoor die laat zien hoe je zelf naar deze ontwikkeling kijkt.
+Je kijkt naar de toekomst: naar de stage en daarna. Je reflecteert op de afgelopen periode en brengt in kaart wat er goed gaat en wat er beter kan.
+Je maakt een tekening (praatplaat), eventueel in de vorm van een metafoor die laat zien hoe je zelf naar deze (gewenste) ontwikkeling kijkt.
 Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw squad leader/coach.
 
 
 ## Werkwijze
 
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
+Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen)
 
 ### Analyseren
 
 #### Aanpak
 
-> 1.Verzamelen van informatie voor jouw praatplaat.
-
-Wat kan er allemaal in jouw praatplaat komen te staan?
-
-> Wat ging er goed?
-
-> Wat ging er minder goed?
-
-> Wat wil je komende tijd graag leren?
-
-> Waar wil je aan het eind van semester 3 zijn?
-
-> Wat denk je in sprint 19 (tijdens de vrije keuze ruimte) te gaan doen?
-
-> Waar wil je aan het eind van semester 4 zijn?
-
-> Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
-
-> Waar liggen kansen, waar heb je zin in?
-
-> Wat zie je jezelf volgend jaar doen (als de studie is afgerond)?
-
-> Wat zie je jezelf over 5 jaar doen?
-
-> Wat zeggen anderen over jou?
+> 1. Het is 5 december 2023.
+Hoe wil je dat jouw werkende leven er dan uitziet?
+Maak hier een tekening van zoals in het voorbeeld en wees concreet:
+Wat zou ik willen kunnen?
+Wat zou ik willen denken?
+Wat zoun ik willen zeggen?
+Waar ben ik (hoe zou ik willen dat mijn werkomgeving eruit ziet)?
+![Toekomst (1)](https://user-images.githubusercontent.com/55133339/205493929-63a1f682-2e75-46ac-bfdd-aafe67cd65f3.png)
 
 
-Schrijf en/of teken deze uitgangspunten op post-its.
 
 
+
+> 2. Teken een tijdlijn waarop je de belangrijkste mijlpalen neerzet zoals in het voorbeeld.
+Teken ook jezelf op 5 december 2023 (zoals je in de eerste tekening al gedaan hebt) èn op 1 juli 2023 als je net bent afgestudeerd.
+![Tijdlijn](https://user-images.githubusercontent.com/55133339/205494311-34cad56b-5362-4110-9c32-0781dc2d7e5f.png)
+
+
+> 3. Ga nu nadenken over hoe je die gewenste sitiuatie kan bereiken. 
+Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
+Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
+Doe dit eventueel op post-its zodat je later de volgorde nog kan aanpassen.
+![Tijdlijn3](https://user-images.githubusercontent.com/55133339/205495504-a32f77a6-6093-4b8f-b9c9-7b7e357a7c02.png)
+
+
+Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:
+
+![Methodisch_handelen](https://user-images.githubusercontent.com/55133339/205495182-10d1be81-e6a5-4b98-be73-2ebf64cf765b.png)
+![Probleemoplossend vermogen](https://user-images.githubusercontent.com/55133339/205495187-a8d1c8f0-73db-4e59-90ad-5f72b070ff62.png)
+![Communiceren](https://user-images.githubusercontent.com/55133339/205495188-5605701c-56ed-4586-bd93-24ce8e1b64fe.png)
+![Samenwerken](https://user-images.githubusercontent.com/55133339/205495189-6ab903f9-4e01-42ab-8851-d8336271fa51.png)
+![Lerend_vermogen](https://user-images.githubusercontent.com/55133339/205495190-44e40c9d-e8d9-471c-92b6-4791c941acfd.png)
+
+> 4. Maak duo's en kijk samen naar elkaars tijdlijn.
+Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld. Schrijf of teken dit bij de tijdlijn.
+
+
+![Tijdlijn4](https://user-images.githubusercontent.com/55133339/205496024-1ce94941-e9d6-4a7b-9448-2da631e3bdba.png)
 
 
 
@@ -64,27 +72,21 @@ Schrijf en/of teken deze uitgangspunten op post-its.
 
 #### Aanpak
 
+> 1. Bedenk en teken een titel voor jouw tekening.
 
-> 2. Structureren
+![Tijdlijn5](https://user-images.githubusercontent.com/55133339/205496335-9cf17502-ee8b-4cba-a057-688e579a6fb7.png)
 
-Pak een A3 vel en teken eerst een schematische structuur.
+> 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor (zie de onderstaande metafoorkaarten voor inspiratie) waarin je het volgende toepast:
 
-Kijk vervolgens wat je hebt opgeschreven en hoe je de post-its gaat verdelen over je structuur. 
+- Een titel
 
-Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten hebt over hoe je dat wil bereiken. Dit kun je ook op je praatplaat zetten.
+- Visuele hierarchie
 
-Zorg er voor dat je fases en/of tijd aangeeft.
- 
-Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
+- Kleur
 
-
-
+- Hierarchie in typografie
 
 
-> 3. Meerdere ideeën schetsen (divergeren)
-
-Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
-Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
 
 
 ![Verkeer](https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg)
@@ -95,20 +97,6 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 ![Sport](https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg)
 ![Eten+koken](https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg)
 
-
-Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
-
-> 4. Een idee uitwerken (convergeren)
-
-Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook in overleg met een klasgenoot doen- en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
-
-- Een titel
-
-- Visuele hierarchie
-
-- Kleur
-
-- Hierarchie in typografie
 
 
 
@@ -122,7 +110,6 @@ Lerend vermogen: Kent eigen capaciteiten en beperkingen, waardeert het vermogen 
 
 Deze opdracht is done als:
 
-- Er minstens drie ideeën zijn bedacht voor de vorm van jouw praatplaat
-- Een van de praatplaten is uitgewerkt in de vorm van een metafoor
 - Er duidelijk aandacht is besteed aan de tekening, lees: geen koffievlekken, gevouwen hoeken etc.
+- De tekening leesbaar en overzichtelijk is.
 - De praatplaat genoeg informatie bevat om een gesprek te voeren over jouw ontwikkeling.
