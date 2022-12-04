@@ -77,7 +77,7 @@ Schrijf of teken dit bij de tijdlijn.
 
 ![Tijdlijn5](https://user-images.githubusercontent.com/55133339/205496335-9cf17502-ee8b-4cba-a057-688e579a6fb7.png)
 
-> 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor (zie de onderstaande metafoorkaarten voor inspiratie) waarin je het volgende toepast:  
+> 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor -zie de onderstaande metafoorkaarten voor inspiratie- waarin je het volgende toepast:  
 
 - Een titel
 
@@ -86,6 +86,8 @@ Schrijf of teken dit bij de tijdlijn.
 - Kleur
 
 - Hierarchie in typografie
+
+
 
 
 
