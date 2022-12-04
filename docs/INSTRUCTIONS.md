@@ -1,5 +1,5 @@
 
-# Do not repeat yourself - Schets je ontwikkeling, deel 2
+# Back to static - Schets je ontwikkeling
 
 Maak een praatplaat waarin je jouw ontwikkeling en waar je naartoe wil in jaar 2, laat zien.
 
