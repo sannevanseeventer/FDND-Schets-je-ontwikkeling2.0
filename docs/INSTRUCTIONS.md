@@ -29,7 +29,6 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 > 1. Het is 5 december 2023.
 Hoe wil je dat jouw werkende leven er dan uitziet?
-
 Maak hier een tekening van zoals in het voorbeeld en wees concreet:  
 Wat zou ik willen kunnen?  
 Wat zou ik willen denken?  
@@ -61,8 +60,7 @@ Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe
 ![Lerend_vermogen](https://user-images.githubusercontent.com/55133339/205495190-44e40c9d-e8d9-471c-92b6-4791c941acfd.png)
 
 > 4. Maak duo's en kijk samen naar elkaars tijdlijn.  
-Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld.  
-Schrijf of teken dit bij de tijdlijn.  
+Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld. Schrijf of teken dit bij de tijdlijn.  
 
 
 ![Tijdlijn4](https://user-images.githubusercontent.com/55133339/205496024-1ce94941-e9d6-4a7b-9448-2da631e3bdba.png)
