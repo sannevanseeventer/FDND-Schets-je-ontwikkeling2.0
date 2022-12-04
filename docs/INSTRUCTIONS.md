@@ -29,28 +29,30 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 > 1. Het is 5 december 2023.
 Hoe wil je dat jouw werkende leven er dan uitziet?
-Maak hier een tekening van zoals in het voorbeeld en wees concreet:
-Wat zou ik willen kunnen?
-Wat zou ik willen denken?
-Wat zoun ik willen zeggen?
-Waar ben ik (hoe zou ik willen dat mijn werkomgeving eruit ziet)?
+
+Maak hier een tekening van zoals in het voorbeeld en wees concreet:  
+Wat zou ik willen kunnen?  
+Wat zou ik willen denken?  
+Wat zoun ik willen zeggen?  
+Waar ben ik (hoe zou ik willen dat mijn werkomgeving eruit ziet)?  
+
 ![Toekomst (1)](https://user-images.githubusercontent.com/55133339/205493929-63a1f682-2e75-46ac-bfdd-aafe67cd65f3.png)
 
 
 
-> 2. Teken een tijdlijn waarop je de belangrijkste mijlpalen neerzet zoals in het voorbeeld.
+> 2. Teken een tijdlijn waarop je de belangrijkste mijlpalen neerzet zoals in het voorbeeld.  
 Teken ook jezelf op 5 december 2023 (zoals je in de eerste tekening al gedaan hebt) èn op 1 juli 2023 als je net bent afgestudeerd.
 ![Tijdlijn](https://user-images.githubusercontent.com/55133339/205494311-34cad56b-5362-4110-9c32-0781dc2d7e5f.png)
 
 
-> 3. Ga nu nadenken over hoe je die gewenste sitiuatie kan bereiken. 
-Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
-Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
-Doe dit eventueel op post-its zodat je later de volgorde nog kan aanpassen.
+> 3. Ga nu nadenken over hoe je die gewenste sitiuatie kan bereiken.   
+Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.  
+Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.  
+Doe dit eventueel op post-its zodat je later de volgorde nog kan aanpassen.  
 ![Tijdlijn3](https://user-images.githubusercontent.com/55133339/205495504-a32f77a6-6093-4b8f-b9c9-7b7e357a7c02.png)
 
 
-Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:
+Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:  
 
 ![Methodisch_handelen](https://user-images.githubusercontent.com/55133339/205495182-10d1be81-e6a5-4b98-be73-2ebf64cf765b.png)
 ![Probleemoplossend vermogen](https://user-images.githubusercontent.com/55133339/205495187-a8d1c8f0-73db-4e59-90ad-5f72b070ff62.png)
@@ -58,8 +60,9 @@ Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe
 ![Samenwerken](https://user-images.githubusercontent.com/55133339/205495189-6ab903f9-4e01-42ab-8851-d8336271fa51.png)
 ![Lerend_vermogen](https://user-images.githubusercontent.com/55133339/205495190-44e40c9d-e8d9-471c-92b6-4791c941acfd.png)
 
-> 4. Maak duo's en kijk samen naar elkaars tijdlijn.
-Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld. Schrijf of teken dit bij de tijdlijn.
+> 4. Maak duo's en kijk samen naar elkaars tijdlijn.  
+Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld.  
+Schrijf of teken dit bij de tijdlijn.  
 
 
 ![Tijdlijn4](https://user-images.githubusercontent.com/55133339/205496024-1ce94941-e9d6-4a7b-9448-2da631e3bdba.png)
@@ -70,11 +73,11 @@ Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije rui
 
 #### Aanpak
 
-> 1. Bedenk en teken een titel voor jouw tekening.
+> 1. Bedenk en teken een titel voor jouw tekening.  
 
 ![Tijdlijn5](https://user-images.githubusercontent.com/55133339/205496335-9cf17502-ee8b-4cba-a057-688e579a6fb7.png)
 
-> 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor (zie de onderstaande metafoorkaarten voor inspiratie) waarin je het volgende toepast:
+> 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor (zie de onderstaande metafoorkaarten voor inspiratie) waarin je het volgende toepast:  
 
 - Een titel
 
