@@ -30,8 +30,12 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 1. Hoe heb jij afgelopen tijd gewerkt aan de verschillende gedragscriteria?
    Teken het spinnenwebdiagram over, pak portflow erbij en scoor jezelf:
    Wat gaat al heel goed en waar moet je de komende periode hard aan werken?
+![Spiderweb1](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/257f913a-3396-4a1f-b461-1b8fb9f95913)
 
-2. Over minder dan een jaar ben je afgestudeerd als Frontender.
+  ![Spiderweb2](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/bf30d2b0-6a2f-4cee-bc7d-f048d209a06e)
+ 
+
+3. Over minder dan een jaar ben je afgestudeerd als Frontender.
    Weet je al wat je na je studie gaat doen? Wil je al aan het werk? Zo ja, waar? en in wat voor functie?
    Wil je doorstuderen? Weet je al welke studie?
 
@@ -40,11 +44,17 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
    Probeer de sitiatie zo concreet mogelijk te tekenen dus laat zien waar je dan bent (omgeving) en in wat voor rol/functie.
    Wat denk, voel en doe je op dat moment?
 
-3. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
+![2024](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/fc964cf9-2b69-4c0b-a6da-ae4341635e5c)
+
+
+4. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
    Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.
    Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
    Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
    Doe dit op post-its zodat je later de volgorde nog kan aanpassen.
+
+![Tijdlijn](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/2581f304-d3c6-4178-be3c-f2984df79df4)
+
 
    Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:  
 
@@ -60,7 +70,7 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
    Schrijf of teken dit bij de tijdlijn.  
 
 
-![Tijdlijn4](https://user-images.githubusercontent.com/55133339/205496024-1ce94941-e9d6-4a7b-9448-2da631e3bdba.png)
+
 
 
 
@@ -85,15 +95,7 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 
 
-
-
-![Verkeer](https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg)
-![Oorlog](https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg)
-![Machines](https://user-images.githubusercontent.com/55133339/200644426-7360eeb0-5b83-4b30-becf-78b7991c3a86.jpg)
-![Reizen](https://user-images.githubusercontent.com/55133339/200644427-aa4e9afe-7d50-4d25-b19b-d960791d0201.jpg)
-![Ballon-ruimtevaart](https://user-images.githubusercontent.com/55133339/200644436-c1af45a0-a2d2-439e-990b-13c2186c2940.jpg)
-![Sport](https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg)
-![Eten+koken](https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg)
+![Uploading Metaforen+uitleg.png…]()
 
 
 
