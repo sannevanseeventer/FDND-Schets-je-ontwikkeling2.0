@@ -35,7 +35,7 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
   ![Spiderweb2](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/bf30d2b0-6a2f-4cee-bc7d-f048d209a06e)
  
 
-3. Over minder dan een jaar ben je afgestudeerd als Frontender.
+2. Over minder dan een jaar ben je afgestudeerd als Frontender.
    Weet je al wat je na je studie gaat doen? Wil je al aan het werk? Zo ja, waar? en in wat voor functie?
    Wil je doorstuderen? Weet je al welke studie?
 
@@ -47,7 +47,7 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
    ![2024](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/fc964cf9-2b69-4c0b-a6da-ae4341635e5c)
 
 
-4. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
+3. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
    Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.
    Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
    Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
