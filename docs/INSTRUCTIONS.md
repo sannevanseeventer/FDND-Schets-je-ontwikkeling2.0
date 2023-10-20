@@ -1,11 +1,11 @@
 
-# Back to static - Schets je ontwikkeling
+# Choices, Choices - Schets je ontwikkeling
 
 Maak een praatplaat waarin je jouw ontwikkeling en waar je naartoe wil in jaar 2, laat zien.
 
 ## Context
 
-Deze deeltaak hoort bij sprint 17 Back to static. 
+Deze deeltaak hoort bij sprint 15 Choices, Choices. 
 Dit is een deeltaak die je grotendeels individueel uitvoert.
 
 In de workshop gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
@@ -27,29 +27,19 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 #### Aanpak
 
-> 1. Het is 5 december 2023.
-Hoe wil je dat jouw werkende leven er dan uitziet?
-Maak hier een tekening van zoals in het voorbeeld en wees concreet:  
-Wat zou ik willen kunnen?  
-Wat zou ik willen denken?  
-Wat zoun ik willen zeggen?  
-Waar ben ik (hoe zou ik willen dat mijn werkomgeving eruit ziet)?  
+> 1. Hoe heb jij afgelopen tijd gewerkt aan de verschillende gedragscriteria?
+      Teken het spinnenwebdiagram over, pak portflow erbij en scoor jezelf:
+      Wat gaat al heel goed en waar moet je de komende periode hard aan werken?
 
-![Toekomst (1)](https://user-images.githubusercontent.com/55133339/205493929-63a1f682-2e75-46ac-bfdd-aafe67cd65f3.png)
+> 2. Over minder dan een jaar ben je afgestudeerd als Frontender. Weet je al wat je na je studie gaat doen? Wil je al aan het werk? Zo ja, waar? en in wat voor functie?
+      Wil je doorstuderen? Weet je al welke studie?
+      Maak een tekening van jezelf over precies één jaar, dus op 30 oktober 2024. Hoe ziet jouw gewenste situatie er dan uit? Denk na over wat je het liefst zou willen maar       wees wel enigszins realistisch. Probeer de sitiatie zo concreet mogelijk te tekenen dus laat zien waar je dan bent (omgeving) en in wat voor rol/functie. Wat denk,          voel en doe je op dat moment?
 
-
-
-> 2. Teken een tijdlijn waarop je de belangrijkste mijlpalen neerzet zoals in het voorbeeld.  
-Teken ook jezelf op 5 december 2023 (zoals je in de eerste tekening al gedaan hebt) èn op 1 juli 2023 als je net bent afgestudeerd.
-![Tijdlijn](https://user-images.githubusercontent.com/55133339/205494311-34cad56b-5362-4110-9c32-0781dc2d7e5f.png)
-
-
-> 3. Ga nu nadenken over hoe je die gewenste sitiuatie kan bereiken.   
+> 3. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
+Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.  
 Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.  
 Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.  
-Doe dit eventueel op post-its zodat je later de volgorde nog kan aanpassen.  
-![Tijdlijn3](https://user-images.githubusercontent.com/55133339/205495504-a32f77a6-6093-4b8f-b9c9-7b7e357a7c02.png)
-
+Doe dit op post-its zodat je later de volgorde nog kan aanpassen.  
 
 Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:  
 
@@ -58,6 +48,8 @@ Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe
 ![Communiceren](https://user-images.githubusercontent.com/55133339/205495188-5605701c-56ed-4586-bd93-24ce8e1b64fe.png)
 ![Samenwerken](https://user-images.githubusercontent.com/55133339/205495189-6ab903f9-4e01-42ab-8851-d8336271fa51.png)
 ![Lerend_vermogen](https://user-images.githubusercontent.com/55133339/205495190-44e40c9d-e8d9-471c-92b6-4791c941acfd.png)
+
+
 
 > 4. Maak duo's en kijk samen naar elkaars tijdlijn.  
 Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld. Schrijf of teken dit bij de tijdlijn.  
@@ -106,8 +98,10 @@ Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije rui
 ## Criteria
 
 
-Deze deeltaak hoort bij het gedragscriterium:  
-Lerend vermogen: Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen en maakt dit bespreekbaar.
+Deze deeltaak is goede bewijslast voor deze gedragscriteria en -indicatoren: 
+Communiceren: Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden (3.3.2). 
+Probleemoplossend vermogen: Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken (3.4.2).
+Lerend vermogen: Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen en maakt dit bespreekbaar (3.5.3).
 
 Deze opdracht is done als:
 
