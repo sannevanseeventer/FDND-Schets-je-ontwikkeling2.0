@@ -47,7 +47,7 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
    ![2024](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/fc964cf9-2b69-4c0b-a6da-ae4341635e5c)
 
 
-3. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
+3. Denk na over hoe je die gewenste situatie kan bereiken.   
    Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.
    Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
    Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
