@@ -27,21 +27,26 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 #### Aanpak
 
-> 1. Hoe heb jij afgelopen tijd gewerkt aan de verschillende gedragscriteria?
-      Teken het spinnenwebdiagram over, pak portflow erbij en scoor jezelf:
-      Wat gaat al heel goed en waar moet je de komende periode hard aan werken?
+1. Hoe heb jij afgelopen tijd gewerkt aan de verschillende gedragscriteria?
+   Teken het spinnenwebdiagram over, pak portflow erbij en scoor jezelf:
+   Wat gaat al heel goed en waar moet je de komende periode hard aan werken?
 
-> 2. Over minder dan een jaar ben je afgestudeerd als Frontender. Weet je al wat je na je studie gaat doen? Wil je al aan het werk? Zo ja, waar? en in wat voor functie?
-      Wil je doorstuderen? Weet je al welke studie?
-      Maak een tekening van jezelf over precies één jaar, dus op 30 oktober 2024. Hoe ziet jouw gewenste situatie er dan uit? Denk na over wat je het liefst zou willen maar       wees wel enigszins realistisch. Probeer de sitiatie zo concreet mogelijk te tekenen dus laat zien waar je dan bent (omgeving) en in wat voor rol/functie. Wat denk,          voel en doe je op dat moment?
+2. Over minder dan een jaar ben je afgestudeerd als Frontender.
+   Weet je al wat je na je studie gaat doen? Wil je al aan het werk? Zo ja, waar? en in wat voor functie?
+   Wil je doorstuderen? Weet je al welke studie?
 
-> 3. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
-Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.  
-Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.  
-Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.  
-Doe dit op post-its zodat je later de volgorde nog kan aanpassen.  
+   Maak een tekening van jezelf over precies één jaar, dus op 30 oktober 2024.
+   Hoe ziet jouw gewenste situatie er dan uit? Denk na over wat je het liefst zou willen maar wees wel enigszins realistisch.
+   Probeer de sitiatie zo concreet mogelijk te tekenen dus laat zien waar je dan bent (omgeving) en in wat voor rol/functie.
+   Wat denk, voel en doe je op dat moment?
 
-Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:  
+3. Denk na over hoe je die gewenste sitiuatie kan bereiken.   
+   Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.
+   Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
+   Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
+   Doe dit op post-its zodat je later de volgorde nog kan aanpassen.
+
+   Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe hij/zij zich dan gedraagt:  
 
 ![Methodisch_handelen](https://user-images.githubusercontent.com/55133339/205495182-10d1be81-e6a5-4b98-be73-2ebf64cf765b.png)
 ![Probleemoplossend vermogen](https://user-images.githubusercontent.com/55133339/205495187-a8d1c8f0-73db-4e59-90ad-5f72b070ff62.png)
@@ -50,9 +55,9 @@ Bekijk nog eens aan welk niveau een afgestudeerde Frontender moet voldoen en hoe
 ![Lerend_vermogen](https://user-images.githubusercontent.com/55133339/205495190-44e40c9d-e8d9-471c-92b6-4791c941acfd.png)
 
 
-
-> 4. Maak duo's en kijk samen naar elkaars tijdlijn.  
-Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld. Schrijf of teken dit bij de tijdlijn.  
+4. Maak duo's en kijk samen naar elkaars tijdlijn.
+   Brainstorm gezamenlijk over welke stageplek of andere invulling van de vrije ruimte èn wat voor meesterproef zou passen bij de leerdoelen die net zijn opgesteld.
+   Schrijf of teken dit bij de tijdlijn.  
 
 
 ![Tijdlijn4](https://user-images.githubusercontent.com/55133339/205496024-1ce94941-e9d6-4a7b-9448-2da631e3bdba.png)
