@@ -51,7 +51,7 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
    Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet zoals in het voorbeeld.
    Teken boven de tijdlijn welke tools en skills je je de komende tijd eigen wil maken en op welk moment.
    Teken onder de tijdlijn aan welke houding-aspecten en soft skills je zou moeten werken om in de gewenste situatie te komen.
-   Doe dit op post-its zodat je later de volgorde nog kan aanpassen.
+   Doe dit op post-its zodat je later de volgorde nog kan aanpassen. Pak eventueel een andere kleur post-its voor privé-onderwerpen (bijbaan, familie, vrienden, etc.) die      buiten je studie vallen (als je dit liever niet meeneemt in je tekening, is dat natuurlijk ook prima!).
 
 ![Tijdlijn](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/2581f304-d3c6-4178-be3c-f2984df79df4)
 
@@ -80,7 +80,6 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 > 1. Bedenk en teken een titel voor jouw tekening.  
 
-![Tijdlijn5](https://user-images.githubusercontent.com/55133339/205496335-9cf17502-ee8b-4cba-a057-688e579a6fb7.png)
 
 > 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor -zie de onderstaande metafoorkaarten voor inspiratie- waarin je het volgende toepast:  
 
