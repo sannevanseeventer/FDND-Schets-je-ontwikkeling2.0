@@ -78,10 +78,9 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 #### Aanpak
 
-> 1. Bedenk en teken een titel voor jouw tekening.  
+1. Bedenk en teken een titel voor jouw tekening.  
 
-
-> 2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor -zie de onderstaande metafoorkaarten voor inspiratie- waarin je het volgende toepast:  
+2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor -zie de onderstaande metafoorkaarten voor inspiratie- waarin je het volgende toepast:  
 
 - Een titel
 
@@ -93,8 +92,9 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 
 
+![Metaforen+uitleg](https://github.com/fdnd-task/back-to-static-schets-je-ontwikkeling/assets/55133339/80430da5-83f8-433e-8e35-91d76391d1da)
 
-![Uploading Metaforen+uitleg.png…]()
+
 
 
 
