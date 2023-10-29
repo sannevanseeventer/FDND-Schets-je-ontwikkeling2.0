@@ -110,5 +110,5 @@ Deze opdracht is done als:
 
 - Er duidelijk aandacht is besteed aan de tekening, lees: geen koffievlekken, gevouwen hoeken etc.
 - De tekening leesbaar en overzichtelijk is.
-- De praatplaat een duidelijk leesbare titel heeft die de lading van de tekening dekt
+- De praatplaat een duidelijk leesbare titel heeft die de lading van de tekening dekt.
 - De praatplaat genoeg informatie bevat om een gesprek te voeren over jouw ontwikkeling.
