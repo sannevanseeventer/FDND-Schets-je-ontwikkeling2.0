@@ -78,15 +78,13 @@ Deze opdracht gaat over de fase van de DLC: [analyseren](#analyseren) en [ontwer
 
 1. Bedenk en teken een titel voor jouw tekening.  
 
-2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor -zie de onderstaande metafoorkaarten voor inspiratie- waarin je het volgende toepast:  
+2. Werk de tekening verder uit: dus verwerk de informatie van de post-its in je tekening of maak een nieuwe tekening, bijvoorbeeld aan de hand van een metafoor -zie de onderstaande metafoorkaarten voor inspiratie- waarin je het volgende toepast:
 
-- Een titel
-
-- Visuele hierarchie
-
-- Kleur
-
-- Hierarchie in typografie
+- Een typo-plan. Bedenk van tevoren welke letters je gebruikt voor welke informatie.
+- Een titel 
+- Een kleuren-plan: Bedenk van tevoren welke kleuren je gebruikt voor welke informatie.
+- Kleur (maximaal twee en functioneel, volgens het kleuren-plan toegepast).
+- Visuele hierarchie, bijvoorbeeld in typografie (volgens het typo-plan).
 
 
 
