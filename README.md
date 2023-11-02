@@ -1,7 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+### Schets je ontwikkeling
 
-# Choices, choices,... schets je ontwikkeling
+![schets-je=ontwikkeling2](https://github.com/sannevanseeventer/choices-choices-schets-je-ontwikkeling/assets/112857444/e58db683-0b46-44f3-82f7-ee55be5b43dc)
 
 
